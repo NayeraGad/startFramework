@@ -2,7 +2,7 @@
   "name": "assignment-1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://NayeraGad.github.io/startFramework",
+  "homepage": "https://NayeraGad.github.io/startFramework/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
